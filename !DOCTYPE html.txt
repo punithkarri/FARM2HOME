@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Farm2Home.in - Fresh Fruits & Vegetables Delivered</title>
+    <meta name="description" content="Buy farm-fresh Indian fruits and organic vegetables online. We deliver mangoes, bananas, apples, and more, fresh to your doorstep in Hyderabad.">
+    <meta name="keywords" content="buy fresh vegetables online, buy fresh fruits online, farm fresh delivery, organic produce India, Farm2Home, online vegetable store, online fruit store">
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Farm2Home.in - Fresh Fruits & Vegetables Delivered" />
+    <meta property="og:description" content="Buy farm-fresh Indian fruits and organic vegetables online. We deliver fresh to your doorstep in Hyderabad." />
+    <meta property="og:image" content="https://images.pexels.com/photos/2252584/pexels-photo-2252584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+    <meta property="og:type" content="website" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'primary': '#4CAF50',
+                        'primary-light': '#81C784',
+                        'primary-dark': '#388E3C',
+                        'secondary': '#FFC107',
+                        'text-dark': '#212121',
+                        'text-light': '#757575',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                },
+            },
+        }
+    </script>
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.9.5",
+    "@google/genai": "https://aistudiocdn.com/google-genai@0.14.0"
+  }
+}
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MC3T7VQMEC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MC3T7VQMEC');
+</script>
+</script>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MC3T7VQMEC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MC3T7VQMEC');
+</script>
+    </script> -->
+</body>
+</html>
