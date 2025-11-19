@@ -63,13 +63,13 @@ const ContactPage: React.FC = () => {
                         <div>
                             <h3 className="text-xl font-semibold text-primary-dark mb-2">Email Us</h3>
                             <p className="text-text-light">For any support or inquiries, please email us at:</p>
-                            <a href="mailto:support@farm2home.in" className="text-primary text-lg hover:underline">support@farm2home.in</a>
+                            <a href="mailto:farm2home.in@farm2home.in" className="text-primary text-lg hover:underline">farm2home.in@farm2home.in</a>
                         </div>
                         <div>
                             <h3 className="text-xl font-semibold text-primary-dark mb-2">Follow Us</h3>
                             <p className="text-text-light mb-4">Connect with us on social media for the latest updates, offers, and recipes.</p>
                             <div className="flex space-x-4">
-                                {SOCIAL_LINKS.map(social => (
+                                {SOCIAL_LINKS.map(social =>https://www.instagram.com/farm2home91/ (
                                     <a key={social.name} href={social.url} target="_blank" rel="noopener noreferrer" className="text-text-dark hover:text-primary transition-colors p-2 bg-gray-100 rounded-full">
                                         {React.cloneElement(social.icon, { className: 'h-7 w-7' })}
                                     </a>
